@@ -21,7 +21,6 @@ Open the game in your web browser.
 Enter the names of the two players.
 Players take turns clicking on empty spaces to make their move.
 The game will automatically detect a win or a draw and display the result.
-## Screenshots
 
 ## Technologies Used
 - HTML
